@@ -168,7 +168,7 @@ asking for, and she will be given an opportunity to enter that
 information.
 
 If your user does enter the requested information, it will be recorded
-in the database in her user record. Using the above mappings, here
+in the database in her user record. Using the above mappings, her
 email address will be stored in the email column, her name will be
 stored in the full_name column, and her time zone will be stored in
 the time_zone column.
@@ -195,12 +195,12 @@ Policy URL
 ==========
 
 If you decide to use simple registration, it might also be a good idea
-to provide a policy URL. This is a URL to a page that describes your
-policy about handling users' data. Most users will feel more
-comfortable using your application if they are assured that their
-information will be kept private.
+to provide a policy URL. This is a URL for a page that describes your
+policy about handling users' personal information. Most users will
+feel more comfortable using your application if they are assured that
+their information will be kept private.
 
-If you specify a privacy URL, then when the user is asked for simple
+If you specify a policy URL, then when the user is asked for simple
 registration information she will also be shown a link to your
 policy. If you do not provide a policy URL, some providers will show a
 message to the user warning that you did not provide a privacy policy.
